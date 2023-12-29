@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project002</string>
+    <string name="english_learning_app">English learning app</string>
+    <string name="black">black</string>
+    <string name="blue">blue</string>
+    <string name="red">red</string>
+    <string name="yellow">yellow</string>
+    <string name="green">green</string>
+</resources>
